@@ -398,8 +398,10 @@
     <Content Include="Content\AdminAssets\demo\demo.js" />
     <Content Include="Content\AdminAssets\img\apple-icon.png" />
     <Content Include="Content\AdminAssets\img\bg5.jpg" />
+    <Content Include="Content\AdminAssets\img\blob.jpg" />
     <Content Include="Content\AdminAssets\img\damir-bosnjak.jpg" />
     <Content Include="Content\AdminAssets\img\default-avatar.png" />
+    <Content Include="Content\AdminAssets\img\ELECTRO.jfif" />
     <Content Include="Content\AdminAssets\img\faces\ayo-ogunseinde-1.jpg" />
     <Content Include="Content\AdminAssets\img\faces\ayo-ogunseinde-2.jpg" />
     <Content Include="Content\AdminAssets\img\faces\clem-onojeghuo-1.jpg" />
@@ -415,8 +417,13 @@
     <Content Include="Content\AdminAssets\img\favicon.png" />
     <Content Include="Content\AdminAssets\img\header.jpg" />
     <Content Include="Content\AdminAssets\img\jan-sendereks.jpg" />
+    <Content Include="Content\AdminAssets\img\kass.png" />
     <Content Include="Content\AdminAssets\img\logo-small.png" />
     <Content Include="Content\AdminAssets\img\mike.jpg" />
+    <Content Include="Content\AdminAssets\img\OIP.jpg" />
+    <Content Include="Content\AdminAssets\img\R.jpg" />
+    <Content Include="Content\AdminAssets\img\sau.jfif" />
+    <Content Include="Content\AdminAssets\img\sau.jpg" />
     <Content Include="Content\AdminAssets\js\core\bootstrap.min.js" />
     <Content Include="Content\AdminAssets\js\core\jquery.min.js" />
     <Content Include="Content\AdminAssets\js\core\popper.min.js" />
